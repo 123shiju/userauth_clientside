@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://userauthserver.vercel.app";
+const API_URL = "https://userauthbackend-oh4y.onrender.com";
 
 const axiosInstance = axios.create({
   baseURL: API_URL,
